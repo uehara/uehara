@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/uehara/uehara/master/profile-summary-card-output/onedark/4-productive-time.svg)
-```
-
-    
