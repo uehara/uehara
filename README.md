@@ -1,4 +1,10 @@
 
+I am Masayoshi Uehara, founder of EarthLink Network (founded 2003).
+Two years ago I moved my entire development approach over to AI. What I am testing now is a simple but hard question: can a SaaS business actually run when every internal system and workflow is AI-operated?
+Working this way, I build and run more than 20 products largely on my own, with our own product, Prompt Flow, at the core of development.
+My focus is finding what team development looks like in the AI era — and I share what I learn along the way, wins and failures alike, with the numbers.
+
+
 [![](https://raw.githubusercontent.com/uehara/uehara/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/uehara/uehara/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/uehara/uehara/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
